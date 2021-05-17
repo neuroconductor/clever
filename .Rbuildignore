@@ -7,3 +7,8 @@
 ^vignettes$
 robdist_new.*\.R
 ^vignettes/vignette_new_RD\.rmd$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
